@@ -4,10 +4,11 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
 
 ### 🚀 Logros
 
-1. Creación del proyecto
-1. Agrego una ruta básica
-1. Agrego una ruta dinámica
-1. Enlazo páginas y creo una SPA
+1. Páginas usando nuestra propia API
+2. Crea components App and Document personalizados
+3. Configura path aliases
+4. Crea páginas y componentes UI para el sitio.
+5. Crea Store simple usando Context
 
 ### 🤖 Guía Rápida
 
