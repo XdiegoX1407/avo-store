@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
   "name": "platzi-next",
-  "author": "@jonalvarezz",
-  "private": true,
+  "author": "@XdiegoX1407",
+  "private": false,
   "description": "",
   "main": "index.js",
   "license": "MIT",
@@ -10,7 +10,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "inspect": "NODE_OPTIONS='--inspect' next"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
